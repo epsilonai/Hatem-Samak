@@ -1,3 +1,7 @@
+Dealing with Imbalanced Data
+https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18
+
+
 # Frauad model_Balanced
 #you will need to extract the source file (../clsify/data/crditcard.zip)befor fitting the modul again
 ## Pre-processing Data
