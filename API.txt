@@ -1,0 +1,9 @@
+input through postman program should be in json form 
+you can get sample from Readme.md
+
+{
+    "data":
+    
+    [.....] #should be 30 items as the same number of columns
+
+}
