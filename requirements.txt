@@ -85,7 +85,7 @@ PyArabic==0.6.6
 pycairo==1.16.2
 pycrypto==2.6.1
 pycups==1.9.73
-Pygments==2.5.2
+Pygments==2.7.4
 PyGObject==3.34.0
 pyint==1.1.0
 PyJWT==1.7.0
